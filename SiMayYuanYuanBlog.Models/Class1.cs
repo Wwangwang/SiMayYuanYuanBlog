@@ -8,5 +8,6 @@ namespace SiMayYuanYuanBlog.Models
 {
     public class Class1
     {
+
     }
 }
